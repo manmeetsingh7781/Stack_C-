@@ -24,7 +24,7 @@ bool Stack::push(int value) const
             return true;
         }
 
-     // un-comment this if you are working with data structures.
+     // comment this if you are working with data.
      cout << "\nArray Limit has been exceeded\n";
     return false;
 }
